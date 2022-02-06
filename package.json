@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-bch-sweep",
+  "name": "fullstack-gatsby-plugin-bch-sweep",
   "version": "1.0.0",
   "description": "Gatsby Plugin to sweep BCH and tokens",
   "main": "index.js",
